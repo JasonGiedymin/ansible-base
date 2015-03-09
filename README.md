@@ -1,6 +1,8 @@
 ansible-base
 ===========
 
+__MOVED TO [AnsibleShipyard/ansible-base](https://github.com/AnsibleShipyard/ansible-base)!__
+
 Base Dockerfile for Ansible.
 
 Dockerfiles are pre-loaded with Ansible, and may contain all the required
